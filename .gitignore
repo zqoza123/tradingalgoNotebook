@@ -1,0 +1,15 @@
+.DS_Store
+.env
+*.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+data/cache/*.parquet
+mesdata/
+outputs/*
+!outputs/.gitkeep
+!outputs/bot5_backtest.rigor_fullperiod.tex
+!outputs/bot5_backtest.rigor_fullperiod_files/
+!outputs/bot5_backtest.rigor_fullperiod_files/*
